@@ -13,6 +13,9 @@ This is an example focusing on baked/mixed lighting and shadows versus realtime.
 <br>
 
 In conjunction with mixed lighting, an Adaptive Probe Volume is applied to blend the environment's shadows upon the player between dark and light areas. This technique replaces the traditional light probe grouping system.
+<br>
+
+Note: Some assets from the Unity Asset Store are required for a complete build. They are not included in this repo. Please see the Licenses section below for links to the assets. Otherwise, feel free to browse through the project files. Thanks.
 <br><br>
 
 ## Player Controls
