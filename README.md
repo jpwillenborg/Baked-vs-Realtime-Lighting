@@ -12,7 +12,7 @@ Baked lighting and shadows with APV versus realtime in Unity
 This is an example focusing on baked/mixed lighting and shadows versus realtime. The main scene uses baked lightmaps by default, in conjunction with mixed lighting in Shadowmask mode. Being able to activate and deactivate the lightmaps during runtime helps illustrate how well quality lightmaps can benefit a scene. In addition, this project allows for the user to adjust the shadow strength in realtime or turn them off completely.
 <br>
 
-In conjunction with mixed lighting, Adaptive Probe Volumes are apllied to blend the environment's shadows upon the player between dark and light areas. This technique replaces the traditional light probe grouping system.
+In conjunction with mixed lighting, an Adaptive Probe Volume is apllied to blend the environment's shadows upon the player between dark and light areas. This technique replaces the traditional light probe grouping system.
 <br><br>
 
 ## Player Controls
